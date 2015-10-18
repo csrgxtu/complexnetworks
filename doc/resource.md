@@ -6,5 +6,6 @@
 [复杂网络分析库NetworkX学习笔记](http://blog.sciencenet.cn/blog-404069-337689.html)  
 [YAGTOM: Yet Another Guide TO Matlab](http://ubcmatlabguide.github.io/)  
 [MATLAB Tutorials and Learning Resources](http://www.mathworks.com/academia/student_center/tutorials/launchpad.html)  
+[复杂网络分析库NetworkX学习笔记（1）：入门](http://blog.sciencenet.cn/blog-404069-337442.html)  
 
 
