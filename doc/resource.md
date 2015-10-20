@@ -8,5 +8,6 @@
 [MATLAB Tutorials and Learning Resources](http://www.mathworks.com/academia/student_center/tutorials/launchpad.html)  
 [复杂网络分析库NetworkX学习笔记（1）：入门](http://blog.sciencenet.cn/blog-404069-337442.html)  
 [matlab complexnetwork toolkit](http://www.levmuchnik.net/Content/Networks/ComplexNetworksPackage.html#Download)  
+[Google Python Coding Style](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules/)  
 
 
